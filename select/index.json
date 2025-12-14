@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "新人類 feat. 鏡音リン",
+  "base_artist": "marasy",
+  "createdAt": "2025-12-14T16:48:48.714667Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "新人類",
+      "artist": "Marasy",
+      "has_synced": true,
+      "path": "select/01_新人類_Marasy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "新人類 feat. 鏡音リン",
+      "artist": "marasy",
+      "has_synced": false,
+      "path": "select/02_新人類_feat._鏡音リン_marasy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "新人類 feat. 鏡音リン - Shinjinrui feat. Kagamine Rin (feat. 鏡音リン)",
+      "artist": "marasy",
+      "has_synced": false,
+      "path": "select/03_新人類_feat._鏡音リン_-_Shinjinrui_feat._Kagamine_Rin_(feat._鏡音リン)_marasy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "新人類 feat. 鏡音リン",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/04_新人類_feat._鏡音リン_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "新人類",
+      "artist": "Marasy",
+      "has_synced": false,
+      "path": "select/05_新人類_Marasy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "新人類 (feat. 鏡音リン)",
+      "artist": "Marasy",
+      "has_synced": true,
+      "path": "select/06_新人類_(feat._鏡音リン)_Marasy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "新人類",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/07_新人類_40mP.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "新人類",
+      "artist": "marasy & 鏡音リン",
+      "has_synced": true,
+      "path": "select/08_新人類_marasy_&_鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "【Ado】新人類 歌いました",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/09_【Ado】新人類_歌いました_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "新人類 feat. 鏡音リン",
+      "artist": "marasy",
+      "has_synced": false,
+      "path": "select/pl_01_新人類_feat._鏡音リン_marasy.txt"
+    }
+  ]
+}
